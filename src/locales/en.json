@@ -71,5 +71,10 @@
     "dashboard_link": "Dashboard",
     "user_profile_link": "Manage your account",
     "sign_out": "Sign out"
+  },
+  "Practice": {
+    "title": "AI Language Practice",
+    "inputPlaceholder": "Type your message here...",
+    "send": "Send"
   }
 }
